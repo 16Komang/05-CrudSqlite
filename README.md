@@ -7,7 +7,7 @@
 ![Screenshot](images/gambar5.jpeg)
 ![Screenshot](images/gambar6.jpeg)
 ![Screenshot](images/gambar7.jpeg)
-Komang Gede Narariya Suputra
-2041720225
-TI3B
-16
+##### Komang Gede Narariya Suputra
+##### 2041720225
+##### TI3B
+##### 16
